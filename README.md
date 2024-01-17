@@ -1,2 +1,2 @@
-# ENGR112-Python-Sp24
-Course repo for Python content in ENGR 112 for Spring 2024
+# ENGR112-spring2024
+Course repo for ENGR 112 - Spring 2024 Semester
